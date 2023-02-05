@@ -1,0 +1,16 @@
+.Image-style1 {
+  height: 120px;
+  width: 120px;
+}
+
+.Image-button {
+  height: 120px;
+  width: 120px;
+  background-color: transparent;
+  border: 0px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
